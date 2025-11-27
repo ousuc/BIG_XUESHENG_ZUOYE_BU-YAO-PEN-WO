@@ -1,8 +1,7 @@
 #include <iostream>
 
 int main()
-
+dsadsad
 {
 
-    紫红色
 }
